@@ -1,0 +1,18 @@
+button {
+  background-color: darkgreen;
+  color: white;
+  padding: 10px;
+  border: none;
+  width: 15%;
+}
+
+.mainpadding {
+  padding: 18px;
+}
+
+.grid-format {
+  display: grid;
+
+  grid-template-columns: 30% 30% auto;
+  margin-bottom: 5px;
+}

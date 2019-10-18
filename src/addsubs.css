@@ -1,0 +1,14 @@
+.main-padding {
+  padding: 18px;
+}
+
+.grid-format {
+  display: grid;
+
+  grid-template-columns: 20% 10% auto;
+  margin-bottom: 5px;
+}
+
+button {
+  width: 7%;
+}
